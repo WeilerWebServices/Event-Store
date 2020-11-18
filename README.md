@@ -4,6 +4,7 @@
 
 ---
 
+The stream database built for Event Sourcing. EventStoreDB is an industrial-strength database technology used as the central data store for event-sourced systems. It is available open-source to run locally on most platforms or as SaaS through Event Store Cloud.
 
 ---
 
